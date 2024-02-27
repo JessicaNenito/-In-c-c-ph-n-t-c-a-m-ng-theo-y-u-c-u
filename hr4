@@ -1,0 +1,21 @@
+{
+		tbc += a[i];
+		if (pmax < a[i]) pmax = a[i];
+		if (pmin > a[i]) pmin = a[i];
+	}{
+		tbc += a[i];
+		if (pmax < a[i]) pmax = a[i];
+		if (pmin > a[i]) pmin = a[i];
+	}{
+		tbc += a[i];
+		if (pmax < a[i]) pmax = a[i];
+		if (pmin > a[i]) pmin = a[i];
+	}{
+		tbc += a[i];
+		if (pmax < a[i]) pmax = a[i];
+		if (pmin > a[i]) pmin = a[i];
+	}{
+		tbc += a[i];
+		if (pmax < a[i]) pmax = a[i];
+		if (pmin > a[i]) pmin = a[i];
+	}
