@@ -1,0 +1,37 @@
+tbc = tbc / n;
+	cout << "\nPhan tu max=" << pmax;
+	cout << "\nPhan tu min=" << pmin;
+	cout << "\nGia tri TBC=" << tbc;
+	cout << "\nCac phan tu<TBC:\n";
+	for (i = 0; i < n; i++)tbc = tbc / n;
+	cout << "\nPhan tu max=" << pmax;
+	cout << "\nPhan tu min=" << pmin;
+	cout << "\nGia tri TBC=" << tbc;
+	cout << "\nCac phan tu<TBC:\n";
+	for (i = 0; i < n; i++)
+		if (a[i] < tbc) cout << a[i] << " ";
+	cout << "\nCac phan tu > TBC:\n";
+	for (i = 0; i < n; i++)tbc = tbc / n;
+	cout << "\nPhan tu max=" << pmax;
+	cout << "\nPhan tu min=" << pmin;
+	cout << "\nGia tri TBC=" << tbc;
+	cout << "\nCac phan tu<TBC:\n";
+	for (i = 0; i < n; i++)
+		if (a[i] < tbc) cout << atbc = tbc / n;
+	cout << "\nPhan tu max=" << pmax;
+	cout << "\nPhan tu min=" << pmin;
+	cout << "\nGia tri TBC=" << tbc;
+	cout << "\nCac phan tu<TBC:\n";
+	for (i = 0; i < n; i++)
+		if (a[i] < tbc) cout << a[i] << " ";
+	cout << "\nCac phan tu > TBC:\n";
+	for (i = 0; i < n; i++)
+		if (a[i] > tbc) cout << a[i] << " ";[i] << " ";
+	cout << "\nCac phan tu > TBC:\n";
+	for (i = 0; i < n; i++)
+		if (a[i] > tbc) cout << a[i] << " ";
+		if (a[i] > tbc) cout << a[i] << " ";
+		if (a[i] < tbc) cout << a[i] << " ";
+	cout << "\nCac phan tu > TBC:\n";
+	for (i = 0; i < n; i++)
+		if (a[i] > tbc) cout << a[i] << " ";
